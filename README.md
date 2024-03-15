@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm tkhashi👋
 
-<!--
-**tkhashi/tkhashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">  
 
-Here are some ideas to get you started:
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tkhshiq/posts.svg)](http://qiita.com/tkhshiq)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tkhshiq/contributions.svg)](http://qiita.com/tkhshiq)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/tkhshiq/followers.svg)](http://qiita.com/tkhshiq)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="left">  
+  
+  <a href="">
+    <img height=20 src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"/>
+  </a>
+  
+</p>
+
+
+<a href="https://github.com/tkhashi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tkhashi&show_icon=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/tkhashi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkhashi&show_icon=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+</a>
